@@ -3,6 +3,12 @@
     "content": [
       {
         "files": [
+          "**/*.yml"
+        ],
+        "dest": "opdocfx"
+      },
+      {
+        "files": [
           "**/*.md"
         ],
         "exclude": [
